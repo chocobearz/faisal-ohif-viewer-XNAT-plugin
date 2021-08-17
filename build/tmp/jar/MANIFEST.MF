@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Application-Name: ICR/XNAT OHIF Viewer Plugin
+Build-Date: Tue Aug 17 02:25:54 UTC 2021
+Build-Number: Manual
+Implementation-Version: 3.0.1
+Implementation-Sha: None
+Implementation-Sha-Full: None
+Implementation-Commit: 0
+Implementation-LastTag: None
+Implementation-Branch: Unknown
+Implementation-CleanTag: false
+Implementation-Dirty: true
+

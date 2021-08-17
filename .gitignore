@@ -7,6 +7,5 @@
 /target
 dep*.txt
 /.nb-gradle/
-/build
 /dist
 /src/main/resources/META-INF/resources/VIEWER/*
